@@ -1,0 +1,31 @@
+body {
+    font-family: 'Arial', Helvetica, sans-serif;
+}
+
+h1 {
+    color: blue;
+    width: fit-content;
+    background-color: moccasin;
+}
+
+.h2 {
+    color: orange;
+    width: fit-content;
+    background-color: moccasin;
+}
+
+li li {
+    color: red;
+    width: fit-content;
+    background-color: moccasin;
+}
+
+#table th {
+    color: purple;
+    width: fit-content;
+    background-color: moccasin;
+}
+
+.seda {
+    color: grey;
+}
